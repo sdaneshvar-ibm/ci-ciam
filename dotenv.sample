@@ -1,10 +1,10 @@
 # Your tenant URL.  You must set this.
-OIDC_CI_BASE_URI=https://xxxxxxxxxx.verify.ibm.com
+OIDC_CI_BASE_URI=https://shaheenciam.verify.ibm.com
 
 # API Client for client_credentials flow
 # Give full permissions for auto-setup
-API_CLIENT_ID=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-API_SECRET=xxxxxxxx
+API_CLIENT_ID=d6a5c9b0-7683-445a-b10a-905552df912f
+API_SECRET=3IJVfVnyaH
 
 # OIDC Relying Party configuration.  Auto setup will create this application
 # using OIDC_REDIRECT_URI specified here.
